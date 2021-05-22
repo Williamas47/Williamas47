@@ -39,10 +39,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-was" /></a>
   
 <!--  <img align="right" width="400" height="250" src="https://user-images.githubusercontent.com/46406697/118543905-4c820c00-b72b-11eb-9afd-8b12edc95fae.gif" /> --->
-![Computer Git](https://user-images.githubusercontent.com/46406697/118553054-2c0b7f00-b736-11eb-82bf-b302befb9974.png)
-![Computer GitHub](https://user-images.githubusercontent.com/46406697/118554157-7b9e7a80-b737-11eb-8f3c-b55269d4eb0f.png)
-![Computer GitHub](https://user-images.githubusercontent.com/46406697/118554169-7e996b00-b737-11eb-8796-53370afe29dc.png)
-![Computer GitHub](https://user-images.githubusercontent.com/46406697/118554182-82c58880-b737-11eb-8d89-4b1e1ceb22ac.png)
 
 <!---
 Williamas47/Williamas47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
