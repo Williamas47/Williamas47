@@ -12,6 +12,10 @@
   <li>ExpressJS</li>
   <li>TypeScript</li>
   <li>Git</li>
+  <li>MongoDB</li>
+  <li>Test Driven Development</li>
+  <li>Jest</li>
+  <li> NextJS </li>
 </ul>
 <h2 align="left"> 🛠 Tools: </h2>
   • VSCode
@@ -19,12 +23,9 @@
   • Photoshop
   • Figma
 <h2 align="left"> 📚 Learning: </h2>
-  • Test Driven Development 
-  • Jest 
-  • MongoDB 
   • Firebase 
   • Solid 
-  • NextJS 
+  
 
 <h2 align="left"> 📫 Get in touch: </h2>
 
