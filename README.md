@@ -1,5 +1,5 @@
 
-<h3 align="left"> Hi, my name is William. I'm a <Strong> FullStack Developer Jr </Strong>. 👨‍💻 </h3>
+<h3 align="left"> Hi, my name is William. I'm a <Strong> FullStack Developer </Strong>. 👨‍💻 </h3>
 <h2 align="left"> 💻 Skills: </h2>
 <img align="right" width="350px" src="https://user-images.githubusercontent.com/46406697/118554436-cfa95f00-b737-11eb-8bbe-cc6360a2dafc.png"/>
 <ul>
@@ -15,18 +15,23 @@
   <li>MongoDB</li>
   <li>Test Driven Development</li>
   <li>Jest</li>
-  <li> NextJS </li>
+  <li>NextJS</li>
+  <li>Postgres</li>
+  <li>AWS</li>
+  <li>AWS-CDK</li>
+  <li>Linux/Bash</li>
+  <li>WebSockets</li>
 </ul>
 <h2 align="left"> 🛠 Tools: </h2>
-  • VSCode
+  • Trello
+  • Shortcut
   • AdobeXD
-  • Photoshop
   • Figma
 <h2 align="left"> 📚 Learning: </h2>
-  • Firebase 
-  • Solid 
+  • AWS-CDK 
+  • WebScrapping
+  • SQL
   
-
 <h2 align="left"> 📫 Get in touch: </h2>
 
   <a href="https://web.whatsapp.com/send?phone=5551985485107" alt="WhatsApp">
